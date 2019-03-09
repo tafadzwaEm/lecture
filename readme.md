@@ -1,9 +1,9 @@
-#Lecture 1
+# Lecture 1
 
-##Github
+## Github
 the lecture was on Github.
 
-###Activities we did.
+### Activities we did.
 
 - git init
 - git status
@@ -18,7 +18,7 @@ the lecture was on Github.
 ```javascript
 let x = "Testing 123"
 alert(x)
-
+```
 
 example of variable declaration `let x = 1`
 
